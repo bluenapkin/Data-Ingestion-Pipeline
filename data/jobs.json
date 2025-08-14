@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "company": "TechCorp",
+    "location": "Muscat, Oman",
+    "salary": 1000
+  },
+  {
+    "id": 2,
+    "title": "Data Analyst",
+    "company": "DataSolutions",
+    "location": "Muscat, Oman",
+    "salary": 900
+  }
+]
